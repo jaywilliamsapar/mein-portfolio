@@ -12,7 +12,7 @@ const Home = () => {
             <h1 className='text-4xl sm:text-7xl font-bold text-[#fff]' >Jay William</h1>
             <h2 className='text-4xl sm:text-7xl font-bold text-[#d47924]'>Front-End Developer.</h2>
             <p className='text-[#e2a165] py-4 max-w-[700px] font-semibold'>I'm a Software Engineer specializing in creating, building 
-                (and occasionally designing) exceptional digital experiences. Currently, I'm focused on building responsive full-stack Web applications.
+                (and occasionally designing) exceptional digitalas experiences. Currently, I'm focused on building responsive full-stack Web applications.
             </p>
 
             <div>
